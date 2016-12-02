@@ -10,4 +10,5 @@
 *.manifest
 *.ilk
 *.pch
-
+*.dep
+*.res
