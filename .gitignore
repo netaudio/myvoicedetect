@@ -1,0 +1,13 @@
+/Lock
+*.suo
+*.sdf
+*.o
+*.obj
+*.ncb
+*.idb
+*.pdb
+*.exe
+*.manifest
+*.ilk
+*.pch
+
